@@ -22,6 +22,10 @@ source;
 
 > To slit open your belly.
 
+* To mar: to damage or spoil to a certain extent; render less perfect, attractive, useful, etc.;
+
+> My theory is that it's because Apple didn't want to mar the otherwise perfectly smooth, seamless surface of their beautiful, sexy iPod with one of those ghastly battery covers you see on other cheapo consumer crap, with the little latches that are always breaking and the seams that fill up with pocket lint and all that general yuckiness. -- http://www.joelonsoftware.com/articles/HighNotes.html
+
 http://dictionary.reference.com
 
 http://thecodelesscode.com/case/3
